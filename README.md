@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Luan Ferreira 👋
 
-- 🔭 Atualmente trabalho com front-end | Sistemas de Energia Solar | Gráfica Express 
+- 🔭Em busca de uma oportunidade com front-end | 
 - 🌱 Estudando HTML e CSS | JavaScript | React
 
 <div align="center">
