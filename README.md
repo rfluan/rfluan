@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Luan Ferreira 👋
 
-- 🔭Em busca de uma oportunidade com front-end | 
-- 🌱 Estudando HTML e CSS | JavaScript | React
+- 🌱 HTML e CSS | JavaScript | React
 
 <div align="center">
   <a href="https://github.com/rfluan">
